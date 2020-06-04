@@ -44,7 +44,7 @@ Copyright: ThemeMountain
 
 body{
 	/*font-family: 'Open Sans', 'Helvetica Neue', sans-serif;*/
-	font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;;
 	letter-spacing: 0;
 	font-weight: 400;
 	font-size: 1.4rem;
@@ -70,7 +70,7 @@ textarea,
 .grid-filter-menu a{
 	/*font-family: 'Raleway', 'Helvetica Neue', sans-serif;*/
 
-	font-family: 'Playfair Display', 'Times', serif;
+	font-family: 'Playfair Display', serif;
 }
 
 /* Titles */
@@ -82,7 +82,6 @@ h5,
 h6{
 	line-height: 1;
 	font-weight: 300;
-	text-transform: uppercase;
 	color: #000;
 }
 h1 a:hover,
@@ -97,7 +96,7 @@ h1 {
 	font-size: 4.5rem;
 }
 h2{
-	font-size: 3.3rem;
+	font-size: 5rem;
 }
 h3 {
 	font-size: 2.3rem;
@@ -118,7 +117,7 @@ h6{
 	font-size: 1.4rem;
 	letter-spacing: 0;
 	font-weight: 700;
-	color: #fff;
+	color: #8f8681;
 }
 .sidebar .widget-title,
 .sidebar .widget-title a{
@@ -127,12 +126,12 @@ h6{
 .side-navigation-wrapper .widget-title,
 .side-navigation-wrapper .widget-title a{
 	font-size: 1.4rem;
-	color: #fff;
+	color: #8f8681;
 }
 .overlay-navigation-wrapper .widget-title,
 .overlay-navigation-wrapper .widget-title a{
 	font-size: 1.4rem;
-	color: #999;
+	color: #8f8681;
 }
 
 /* Link Colors */
@@ -256,7 +255,7 @@ blockquote.large{
 	}
 	h2,
 	.title-large{
-		font-size: 2.8rem;
+		font-size: 5rem;
 	}
 	h3 {
 		font-size: 1.8rem;
@@ -390,20 +389,20 @@ body,
 	color: #333;
 }
 .bkg-charcoal{
-	background-color: #151515;
-	border-color: #151515;
+	background-color: #f5f1ea;
+	border-color: #f5f1ea;
 }
 .bkg-hover-charcoal:hover{
-	background-color: #151515;
-	border-color: #151515;
+	background-color: #f5f1ea;
+	border-color: #f5f1ea;
 }
 .border-charcoal,
 .border-hover-charcoal:hover{
-	border-color: #151515;
+	border-color: #f5f1ea;
 }
 .color-charcoal,
 .color-hover-charcoal:hover{
-	color: #151515;
+	color: #f5f1ea;
 }
 
 /* blue */
@@ -426,24 +425,24 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #ff6665;
-	border-color: #ff6665;
+	background-color: #dcd2c8;
+	border-color: #dcd2c8;
 }
 .bkg-hover-theme:hover{
-	background-color: #ff6665;
-	border-color: #ff6665;
+	background-color: #dcd2c8;
+	border-color: #dcd2c8;
 }
 .border-theme{
-	border-color: #ff6665;
+	border-color: #dcd2c8;
 }
 .border-hover-theme:hover{
-	border-color: #ff6665;
+	border-color: #dcd2c8;
 }
 .color-theme{
-	color: #ff6665;
+	color: #dcd2c8;
 }
 .color-hover-theme:hover{
-	color: #ff6665;
+	color: #dcd2c8;
 }
 
 /*------------------------------------------------------------------
@@ -529,7 +528,7 @@ body,
 }
 .tm-slider-container .text-line-vertical:after{
 	height: 50rem;
-	border-color: #ff6666;
+	border-color: white;
 }
 @media only screen and (min-width: 960px){
 	.header-1-static + .content{
