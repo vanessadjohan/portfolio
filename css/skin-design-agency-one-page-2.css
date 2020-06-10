@@ -3230,8 +3230,9 @@ blockquote.border{
 	opacity: 0.5;
 }
 .clients-1 .counter{
-	font-size: 10rem;
+	font-size: 50rem;
 	margin-bottom: 0;
+	color: black;
 }
 
 /* Profile Image */
