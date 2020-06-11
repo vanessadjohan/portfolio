@@ -51,10 +51,6 @@ body{
 	line-height: 1.8;
 	color: #666;
 }
-
-.counter a{
-	font-family: 'Cookie', cursive;
-}
 h1,
 h2,
 h3,
@@ -76,6 +72,8 @@ textarea,
 
 	font-family: 'Playfair Display', serif;
 }
+
+.counter{font-family: 'Playfair Display', serif;}
 
 /* Titles */
 h1,
