@@ -47,9 +47,9 @@ body{
 	font-family: 'Source Sans Pro', sans-serif;;
 	letter-spacing: 0;
 	font-weight: 400;
-	font-size: 1.4rem;
+	font-size: rem;
 	line-height: 1.8;
-	color: #666;
+	color: #484848;
 }
 h1,
 h2,
@@ -342,19 +342,19 @@ body,
 
 /* grey ulatrlight */
 .bkg-grey-ultralight{
-	background-color: #fafafa;
-	border-color: #fafafa;
+	background-color: #eeeae3;
+	border-color: #eeeae3;
 }
 .bkg-hover-grey-ultralight:hover{
-	background-color: #fafafa;
-	border-color: #fafafa;
+	background-color: #eeeae3;
+	border-color: #eeeae3;
 }
 .border-hover-grey-ultralight:hover{
-	border-color: #fafafa;
+	border-color: #eeeae3;
 }
 .color-grey-ultralight,
 .color-hover-grey-ultralight:hover{
-	color: #fafafa;
+	color: #eeeae3;
 }
 
 /* grey */
@@ -391,20 +391,20 @@ body,
 	color: #333;
 }
 .bkg-charcoal{
-	background-color: #f5f1ea;
-	border-color: #f5f1ea;
+	background-color: #ddd6ce;
+	border-color: #ddd6ce;
 }
 .bkg-hover-charcoal:hover{
-	background-color: #f5f1ea;
-	border-color: #f5f1ea;
+	background-color: #ddd6ce;
+	border-color: #ddd6ce;
 }
 .border-charcoal,
 .border-hover-charcoal:hover{
-	border-color: #f5f1ea;
+	border-color: #ddd6ce;
 }
 .color-charcoal,
 .color-hover-charcoal:hover{
-	color: #f5f1ea;
+	color: #ddd6ce;
 }
 
 /* blue */
@@ -427,24 +427,24 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #dcd2c8;
-	border-color: #dcd2c8;
+	background-color: #b0a99f;
+	border-color: #b0a99f;
 }
 .bkg-hover-theme:hover{
-	background-color: #dcd2c8;
-	border-color: #dcd2c8;
+	background-color: #b0a99f;
+	border-color: #b0a99f;
 }
 .border-theme{
-	border-color: #dcd2c8;
+	border-color: #b0a99f;
 }
 .border-hover-theme:hover{
-	border-color: #dcd2c8;
+	border-color: #b0a99f;
 }
 .color-theme{
-	color: #dcd2c8;
+	color: #b0a99f;
 }
 .color-hover-theme:hover{
-	color: #dcd2c8;
+	color: #b0a99f;
 }
 
 /*------------------------------------------------------------------
@@ -456,8 +456,8 @@ body,
 .fullscreen-section .fullscreen-inner,
 .pagination-2 .pagination-next,
 .row.xlarge{
-	padding-top: 8rem;
-	padding-bottom: 8rem;
+	padding-top: 3rem;
+	padding-bottom: 3rem;
 }
 .replicable-content,
 .row.xlarge.replicable-content{
@@ -2261,7 +2261,7 @@ h4.project-title{
 	margin-bottom: 2rem;
 	font-size: 1.1rem;
 	font-weight: 400;
-	color: #999;
+	color: black;
 }
 .post-info.boxed{
 	width: 100%;
@@ -2448,8 +2448,8 @@ h4.project-title{
 .form-element,
 textarea{
 	margin-bottom: 3rem;
-	background-color: #f4f4f4;
-	border: 1px solid #f4f4f4;
+	background-color: #eeeae3;
+	border: 1px solid #eeeae3;
 }
 .form-element,
 textarea,
@@ -3269,7 +3269,7 @@ blockquote.border{
 /* Stats */
 [class*="stats-"] .counter{
 	margin-bottom: 1rem;
-	font-size: 4.3rem;
+	font-size: 6rem;
 	font-weight: 300;
 }
 [class*="stats-"] .counter.xlarge{
